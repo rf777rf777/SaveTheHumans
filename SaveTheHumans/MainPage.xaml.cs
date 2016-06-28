@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace SaveTheHumans
 {
     /// <summary>
-    /// MainWindow.xaml 的互動邏輯
+    /// MainPage.xaml 的互動邏輯
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class MainPage : Page
     {
-        public MainWindow()
+        public MainPage()
         {
             InitializeComponent();
         }

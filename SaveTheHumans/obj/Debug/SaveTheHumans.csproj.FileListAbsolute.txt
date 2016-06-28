@@ -1,1 +1,15 @@
 C:\Users\Syashin_Programing\Desktop\HeadFirst_C#\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.exe.config
+C:\Users\weiting\Desktop\HeadFirst_C#\SaveTheHumans\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.exe.config
+C:\Users\weiting\Desktop\HeadFirst_C#\SaveTheHumans\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.exe
+C:\Users\weiting\Desktop\HeadFirst_C#\SaveTheHumans\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.pdb
+C:\Users\weiting\Desktop\HeadFirst_C#\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.csprojResolveAssemblyReference.cache
+C:\Users\weiting\Desktop\HeadFirst_C#\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\MainPage.g.cs
+C:\Users\weiting\Desktop\HeadFirst_C#\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\App.g.cs
+C:\Users\weiting\Desktop\HeadFirst_C#\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans_MarkupCompile.cache
+C:\Users\weiting\Desktop\HeadFirst_C#\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans_MarkupCompile.lref
+C:\Users\weiting\Desktop\HeadFirst_C#\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\MainPage.baml
+C:\Users\weiting\Desktop\HeadFirst_C#\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.g.resources
+C:\Users\weiting\Desktop\HeadFirst_C#\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.Properties.Resources.resources
+C:\Users\weiting\Desktop\HeadFirst_C#\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.csproj.GenerateResource.Cache
+C:\Users\weiting\Desktop\HeadFirst_C#\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.exe
+C:\Users\weiting\Desktop\HeadFirst_C#\SaveTheHumans\SaveTheHumans\SaveTheHumans\obj\Debug\SaveTheHumans.pdb
