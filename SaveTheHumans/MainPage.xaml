@@ -32,19 +32,6 @@
             <RowDefinition/>
             <RowDefinition Height="160"/>
         </Grid.RowDefinitions>
-        <Button x:Name="StartButton" Content="Start" HorizontalAlignment="Center" Margin="38,62" VerticalAlignment="Center" Width="84" Grid.Row="2" Height="36" Background="#FFEC8787" />
-        <StackPanel Grid.Column="3" Orientation="Vertical" Grid.Row="2">
-            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
-                <TextBlock x:Name="textBlock" TextWrapping="Wrap" VerticalAlignment="Center" Foreground="White" FontSize="16" Margin="0" HorizontalAlignment="Center"><Run Text="Avoid These">
-            			<Run.Background>
-            				<ImageBrush/>
-            			</Run.Background>
-            		</Run></TextBlock>
-                <ContentControl Content="
-                                Control" HorizontalAlignment="Center" VerticalAlignment="Center" FontStyle="Italic" Foreground="White" RenderTransformOrigin="0.568,0.688" Margin="2,0" Style="{DynamicResource EnemyTemplate}" Background="Black"/>
-            </StackPanel>
-        </StackPanel>
-        <ProgressBar Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="2" Margin="0,70"/>
         <Canvas x:Name="playArea" Margin="0" Grid.Row="1" Grid.ColumnSpan="4">
             <Canvas.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
@@ -74,6 +61,16 @@
                 </Rectangle.Fill>
             </Rectangle>
         </Canvas>
+        <Button x:Name="StartButton" Content="Start" HorizontalAlignment="Center" Margin="38,62" VerticalAlignment="Center" Width="84" Grid.Row="2" Height="36" Background="#FFEC8787" />
+        <StackPanel Grid.Column="3" Orientation="Vertical" Grid.Row="2">
+            <TextBlock x:Name="textBlock" TextWrapping="Wrap" VerticalAlignment="Center" Foreground="White" FontSize="16" HorizontalAlignment="Center" Margin="34,0"><Run Text="Avoid These">
+        			<Run.Background>
+        				<ImageBrush/>
+        			</Run.Background>
+        		</Run></TextBlock>
+            <ContentControl Content="                                ContentControl" HorizontalAlignment="Center" VerticalAlignment="Center" FontStyle="Italic" Foreground="White" RenderTransformOrigin="0.568,0.688" Style="{DynamicResource EnemyTemplate}" Background="Black" Margin="30,0"/>
+        </StackPanel>
+        <ProgressBar Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="2" Margin="0,70"/>
         <Label x:Name="label" Content="SaveTheHumans" HorizontalAlignment="Left" VerticalAlignment="Center" Foreground="White" FontWeight="Bold" FontSize="30" Grid.ColumnSpan="3" Margin="0" Background="Transparent"/>
     </Grid>
 </Page>
